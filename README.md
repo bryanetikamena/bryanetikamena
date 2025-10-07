@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Bryan Etikamena
 
-<!--
-**bryanetikamena/bryanetikamena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Fresh Graduate Teknik Informatika**  
+Minat di bidang **Data Analysis**, **Machine Learning**, dan **Data Science**.  
+Saya berkomitmen untuk terus belajar dan mengembangkan kemampuan, dengan tujuan menghasilkan solusi cerdas yang dapat membantu pengambilan keputusan berbasis data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Data Analysis & Machine Learning:**  
+  Python &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Scikit-learn &nbsp;|&nbsp; Matplotlib
+- **Data Visualization:**  
+  Tableau &nbsp;|&nbsp; Microsoft Excel &nbsp;|&nbsp; Looker Studio
+- **Web Development (Basic):**  
+  Flask &nbsp;|&nbsp; HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; JavaScript
+
+---
+
+## 🌱 About Me
+
+- Suka mengeksplorasi proyek machine learning & data visualization
+- Suka membuat dashboard data interaktif untuk melatih kemampuan analisis
+- Bekerja sambil mendengarkan musik supaya lebih fokus dan santai
+
+---
+
+## 💡 Motto
+
+> _“Saya berkomitmen untuk terus belajar dan mengembangkan kemampuan di bidang data science dan machine learning, dengan tujuan menghasilkan solusi cerdas yang dapat membantu pengambilan keputusan berbasis data.”_
+
+---
+
+_Thanks for visiting my profile!_ 🚀
