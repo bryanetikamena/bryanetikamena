@@ -13,7 +13,7 @@ Saya berkomitmen untuk terus belajar dan mengembangkan kemampuan, dengan tujuan 
 - **Data Visualization:**  
   Tableau &nbsp;|&nbsp; Microsoft Excel &nbsp;|&nbsp; Looker Studio
 - **Web Development (Basic):**  
-  Flask &nbsp;|&nbsp; HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; JavaScript
+  HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Python &nbsp;|&nbsp; JavaScript;|&nbsp; Flask
 
 ---
 
